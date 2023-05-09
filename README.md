@@ -25,9 +25,9 @@ By holding CTRL while choosing countries we can easily compare different countri
 ### Continents
 This page has a little different layout. 
 
-Still the area above horizontal line stays the same.
+The area above horizontal line stays the same.
 
-The are left of the vertical line contains one slicer containing all the various health provider options.
+The area left of the vertical line contains one slicer containing all the various health provider options.
 
 Finally the area right of the vertical line contains 3 visualizations.
 * Card contains the chosen value for Czechia as it is relevant to us.
