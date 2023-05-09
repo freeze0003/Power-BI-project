@@ -16,6 +16,7 @@ Right of the vertical line we have five vizualizations which are all needed to g
 * In order to put it into perspective another table shows population of the chosen country.
 * Map helps us to navigate with less known countries.
 * Card then shows them maximum value of relevant providers per 1000 inhabitans.
+
 In this way we can get a good idea of not only of the recent situation concerning providers but also of the historical development in the country.
 By holding CTRL while choosing countries we can easily compare different countries together.
 ###
