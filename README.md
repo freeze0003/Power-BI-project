@@ -5,6 +5,7 @@ This project is focused on health providers all over the world. There are 4 grou
 * dentists
 * nurses and midwives
 * pharmacists
+
 Last page then shows the numbers concerning providers by continents.
 
 ### Physicians, dentists, nurses and midwives, pharmacists
