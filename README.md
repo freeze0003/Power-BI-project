@@ -25,7 +25,7 @@ By holding CTRL while choosing countries we can easily compare different countri
 ### Continents
 This page has a little different layout. 
 
-The area above horizontal line stays the same.
+The area above the horizontal line stays the same.
 
 The area left of the vertical line contains one slicer containing all the various health provider options.
 
