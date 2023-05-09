@@ -31,6 +31,7 @@ The area left of the vertical line contains one slicer containing all the variou
 
 Finally the area right of the vertical line contains 3 visualizations.
 * Card contains the chosen value for Czechia as it is relevant to us.
-* Table is made in a way to support hierarchy. By turning on the drill down function and clicking on the continent of interest we can explore the countries ordered in descending manner. By default it orders them by health provider chosen in slicer. 
+* Table is made in a way to support hierarchy. By turning on the drill down function and clicking on the continent of interest we can explore the countries ordered in descending manner. By default it orders them by health provider chosen in slicer. In this way we can easily compare the countries. In addition to that this table again shows population of the countries and thus supplying further key information.
+* Map shows the countries shown currently in the table.
 
-In this way we can easily compare the countries. In addition to that this table again shows population of the countries and thus supplying further key information.
+Due to the use of 2 different sources (health providers and population) sometimes the names of the countries are not matching and thus table shows a few countries without continent. I tried to fix as many of the countries I could but some remained unchanged.
