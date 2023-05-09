@@ -35,4 +35,7 @@ Finally the area right of the vertical line contains 3 visualizations.
 * Table is made in a way to support hierarchy. By turning on the drill down function and clicking on the continent of interest we can explore the countries ordered in descending manner. By default it orders them by health provider chosen in slicer. In this way we can easily compare the countries. In addition to that this table again shows population of the countries and thus supplying further key information.
 * Map shows the countries shown currently in the table.
 
-Due to the use of 2 different sources (health providers and population) sometimes the names of the countries are not matching and thus table shows a few countries without continent. I tried to fix as many of the countries I could but some remained unchanged.
+Due to the use of 2 different sources (health providers and population) sometimes the names of the countries are not matching and thus table shows a few countries without continent. I tried to fix as many of the countries as I could but some remained unchanged.
+
+## Conclusion 
+This project provides a great insight to health providers in the wolrd. It also puts into a perspective our own health care providers especially when compared with e.g. countries in Africa. Due to the added information concerning population it is striking when noticing that the Europe and North America combined has less people then the whole Africa and Asia contains 3,88 times as many inhabitants.
